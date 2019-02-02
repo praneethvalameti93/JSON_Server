@@ -36,5 +36,16 @@
         }
       ]
     }
+  ],
+  "users":[
+    {
+      "userid":"admin",
+      "password":"admin123"
+    },
+    {
+      "userid":"kavya",
+      "password":"kavya123"
+    }
   ]
+
   }
