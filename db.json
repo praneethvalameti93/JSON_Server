@@ -1,19 +1,40 @@
 {
-  "posts": [
+  "projects": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "title": "Project_1",
+      "customers": [
+        {
+          "name":"praneeth",
+          "phon":"1234567",
+          "email":"praneeth@gmail.comes",
+          "address":"ongole prakasam dist 523212"
+        },
+        {
+          "name":"rajesh",
+          "phon":"54612369",
+          "email":"rajesh@gmail.comes",
+          "address":"chirala prakasam dist 523001"
+        }
+      ]
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "title": "Project_2",
+      "customers": [
+        {
+          "name":"praneeth",
+          "phon":"1234567",
+          "email":"praneeth@gmail.comes",
+          "address":"ongole prakasam dist 523212"
+        },
+        {
+          "name":"rajesh",
+          "phon":"54612369",
+          "email":"rajesh@gmail.comes",
+          "address":"chirala prakasam dist 523001"
+        }
+      ]
     }
-  ],
-  "profile": {
-    "name": "typicode"
+  ]
   }
-}
